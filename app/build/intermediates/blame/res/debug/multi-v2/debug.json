@@ -1,0 +1,134 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\project\\androidStudio\\Android-VoiceAssistant-master\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\project\\androidStudio\\Android-VoiceAssistant-master\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\project\\androidStudio\\Android-VoiceAssistant-master\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\project\\androidStudio\\Android-VoiceAssistant-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "277,335",
+                        "endColumns": "57,55",
+                        "endOffsets": "330,386"
+                    }
+                },
+                {
+                    "source": "E:\\project\\androidStudio\\Android-VoiceAssistant-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "9,5,3,4,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "272,161,56,108,214",
+                        "endLines": "15,5,3,4,6",
+                        "endColumns": "19,52,51,52,35",
+                        "endOffsets": "489,209,103,156,245"
+                    },
+                    "to": {
+                        "startLines": "2,11,12,13,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,391,444,496,549",
+                        "endLines": "8,11,12,13,14",
+                        "endColumns": "19,52,51,52,35",
+                        "endOffsets": "272,439,491,544,580"
+                    }
+                },
+                {
+                    "source": "E:\\project\\androidStudio\\Android-VoiceAssistant-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "15,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "585,876",
+                        "endLines": "21,24",
+                        "endColumns": "12,12",
+                        "endOffsets": "871,1031"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\project\\androidStudio\\Android-VoiceAssistant-master\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\project\\androidStudio\\Android-VoiceAssistant-master\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\project\\androidStudio\\Android-VoiceAssistant-master\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\project\\androidStudio\\Android-VoiceAssistant-master\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "305",
+                        "endColumns": "57",
+                        "endOffsets": "358"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
